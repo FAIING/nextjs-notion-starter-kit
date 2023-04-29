@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Fai's Moments',
+  name: 'Pianke指北',
   domain: 'https://www.notion.so/keung/b20a835da69c40b99ea4318e73360671',
   author: 'YHQ',
 
