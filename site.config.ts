@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b20a835da69c40b99ea4318e73360671',
+  rootNotionPageId: 'Pianke-f413a96fe5c34fdd925dce4e8d86d48e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Pianke指北',
-  domain: 'https://www.notion.so/keung/b20a835da69c40b99ea4318e73360671',
+  name: 'Pianke',
+  domain: 'https://www.notion.so/keung/Pianke-f413a96fe5c34fdd925dce4e8d86d48e',
   author: 'YHQ',
 
   // open graph metadata (optional)
