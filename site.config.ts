@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: "https://pic.gxqn.men/file/215c8780c44d81c9393a9.png",
+  defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
@@ -55,7 +55,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'About-8c594e5e9e3e420d8da7882f91160263?pvs=4'
+      pageId: 'About-8c594e5e9e3e420d8da7882f91160263'
     }
   ]
   // navigationStyle: 'custom',
